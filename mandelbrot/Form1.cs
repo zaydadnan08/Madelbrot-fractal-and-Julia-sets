@@ -83,7 +83,7 @@ namespace mandelbrot
             pictureBox1.Image = pixel;
         }
 
-       
+     
     }
 }
 

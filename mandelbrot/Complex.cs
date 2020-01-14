@@ -5,7 +5,7 @@ namespace mandelbrot
     // f(z)= Z^2 + c 
     // f(z)= new position 
     // z = current position (complex)
-    // c = starting position (comlpex) !!reamins constant per position!!
+    // c = starting position (comlpex) !!reamins constant per position!!/ unless using julia sets
     // x is the plane for real number (increments by real numbers Ex: 1,2,3,4,5,6,7)
     // y is the plane for imaginary number (increments by imaginary numbers Ex: 1i,2i,3i,4i,5i,6i,7i)
     // diff rules Ex 1*1 = 1 or r*r = r while i*i = -r or -1; real*real = real while imaginary*imaginary = real 
