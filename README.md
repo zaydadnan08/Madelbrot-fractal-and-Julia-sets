@@ -1,10 +1,9 @@
 
-Madelbrot-fractal-and-Julia-sets
+# Madelbrot-fractal-and-Julia-sets
 A visualisation of the Mandelbrot fractal and Julia sets using the .NET framework in visual studio through an interactive windows form app. 
 
-How It Works: 
+## How It Works: 
 Complex numbers are computed using Mandelbrots formula f(z) = z^2 + c, where  
-     f(z)= z^2 + c                                                                                     
      f(z)= new position                                                                                  
      z = current position (complex number)                                                                          
      c = starting position (comlpex)                                                                          
@@ -17,7 +16,7 @@ The point c is the initial point of the recurrsion. By altering this to be const
 Sample values for c in the Julia set can be found here: https://en.wikipedia.org/wiki/Julia_set                                                                                                                                                                                        
 
 Overall this was a fun project to understand how complex numbers and fractals work. Feel free to copy, change and alter the code to help in your own understanding. Below are some links you may find useful to understand in grater detail how fractals work and if your unfamiliar with constructors.                                                                                                                                                                                             
-
+## Useful Links:
 Complex Struct documentation.https://docs.microsoft.com/en-us/dotnet/api/system.numerics.complex?view=netframework-4.8            
 Video Explaining Mandelbrot sets.https://www.youtube.com/watch?v=6IWXkV82oyY                                                               
 How Constructors work.http://www.informit.com/articles/article.aspx?p=2438407&seqNum=7                                                   
