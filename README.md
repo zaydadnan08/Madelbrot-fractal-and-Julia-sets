@@ -1,6 +1,3 @@
-"# Madelbrot-fractal-and-Julia-sets" 
-"# Madelbrot-fractal-and-Julia-sets" 
-
 
 Madelbrot-fractal-and-Julia-sets
 A visualisation of the Mandelbrot fractal and Julia sets using the .NET framework in visual studio through an interactive windows form app. 
@@ -24,4 +21,5 @@ Overall this was a fun project to understand how complex numbers and fractals wo
 Complex Struct documentation.https://docs.microsoft.com/en-us/dotnet/api/system.numerics.complex?view=netframework-4.8
 Video Explaining Mandelbrot sets.https://www.youtube.com/watch?v=6IWXkV82oyY
 How Constructors work.http://www.informit.com/articles/article.aspx?p=2438407&seqNum=7
-Constructor documentation.https://docs.microsoft.com/en-us/dotnet/api/system.numerics.complex.-ctor?view=netframework-4.8
+Constructor documentation.https://docs.microsoft.com/en-us/dotnet/api/system.numerics.complex.-ctor?view=netframework-4.S
+
