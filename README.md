@@ -20,5 +20,8 @@ Overall this was a fun project to understand how complex numbers and fractals wo
 Complex Struct documentation.https://docs.microsoft.com/en-us/dotnet/api/system.numerics.complex?view=netframework-4.8            
 Video Explaining Mandelbrot sets.https://www.youtube.com/watch?v=6IWXkV82oyY                                                               
 How Constructors work.http://www.informit.com/articles/article.aspx?p=2438407&seqNum=7                                                   
-Constructor documentation.https://docs.microsoft.com/en-us/dotnet/api/system.numerics.complex.-ctor?view=netframework-4.S                   
+Constructor documentation.https://docs.microsoft.com/en-us/dotnet/api/system.numerics.complex.-ctor?view=netframework-4.S 
 
+Here is an example: c = 0.285 + 0.01i 
+
+![](images/julia2.png)
