@@ -4,7 +4,7 @@ A visualisation of the Mandelbrot fractal and Julia sets using the .NET framewor
 
 How It Works: 
 Complex numbers are computed using Mandelbrots formula f(z) = z^2 + c, where  
-    f(z)= z^2 + c 
+     f(z)= z^2 + c                                                                                     
      f(z)= new position 
      z = current position (complex number)
      c = starting position (comlpex)
